@@ -1,0 +1,35 @@
+@media only screen and (max-width: 700px) {
+    .h1jobb {
+        font-size: 250%;
+    }
+    .h1bal {
+        font-size: 250%;
+    }
+    .h1bal-m {
+        font-size: 250%;
+    }
+    .h1center{
+        font-size: 250%;
+    }
+    .h2jobb {
+        font-size: 200%;
+    }
+    .h2bal {
+        font-size: 200%;
+    }
+    .rendezvenyektext {
+        font-size: 125%;
+    }
+    .rolunktextjobb {
+        font-size: 125%;
+    }
+    .rolunktextbal {
+        font-size: 125%;
+    }
+    .itallaplist tr th{
+        font-size: 125%;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+    
+}

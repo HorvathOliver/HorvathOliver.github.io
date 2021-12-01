@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+/* font-family: 'Open Sans', sans-serif; */
+
+@media only screen and (min-width: 1765px) {
+    .slider {
+        display: flex;
+        margin-top: 0.5rem;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        margin-bottom: 0px !important;
+        padding: 0px !important;
+        border: 0px !important;
+        padding: none !important;
+        justify-content: center !important;
+        overflow: hidden !important;
+    }
+    .profilepicture {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0.5rem;
+        margin-bottom: 5px;
+        padding: 0px !important;
+        border: 0px !important;
+        margin: none !important;
+        padding: none !important;
+        width: 40%;
+        height: 40%;
+        justify-content: center;
+        border-radius: 1rem;
+    }
+    .profilename {
+        text-align: center;
+        font-size: 150%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .profiletext {
+        margin-top: 20px;
+        text-align: justify;
+        font-size: 120%;
+    }
+    .profilemore {
+        align-items: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 1%;
+        margin-bottom: 10px;
+        color: white !important;
+    }
+    .rendezvenyekimgdiv {
+        display: flex !important;
+        justify-content: center;
+        margin-top: 6.25rem;
+        margin-left: -0.625rem;
+        max-height: 45rem;
+       
+    }
+    .rendezvenyekTextDiv {
+        display: flex;
+        align-items: baseline;
+        align-content: center;
+        justify-content: center;
+    }
+    .rendezvenyektext {
+        text-align: justify;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: white;
+        font-size: 175%;
+        margin-left: 1rem;
+    }
+    .rendezvenyekimg {
+        width: auto;
+        height: 100%;
+        margin-left: 1rem;
+        border-radius: 1rem;
+    }
+    .rendezvenyekimg2 {
+        display: flex;
+        justify-content: center;
+        height: 100;
+        width: auto;
+        margin-left: 1.25rem;
+        margin-right: auto;
+        border-radius: 1rem;
+    }
+    .h1jobb {
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+        margin-top: 6.2rem;
+        margin-right: 1rem;
+        margin-bottom: 5%;
+        font-size: 350%;
+        font-weight: bolder;
+        text-align: right;
+    }
+    .h1bal {
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+        margin-top: 6.2rem;
+        margin-left: 7rem;
+        margin-bottom: 5%;
+        font-size: 350%;
+        font-weight: bolder;
+        text-align: left;
+    }
+    .h1center {
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+        margin-top: 7rem;
+        margin-bottom: 4rem;
+        font-size: 350%;
+        font-weight: bolder;
+        text-align: center;
+    }
+    .rolunkimg {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 400px;
+        border-radius: 1rem;
+    }
+    .rolunkdiv {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .rolunkCard {
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+        flex-direction: column;
+    }
+    .rolunkCardBal {
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-direction: column;
+    }
+    .h2jobb {
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+        margin-top: 15.5rem;
+        margin-right: 2rem;
+        margin-bottom: 3%;
+        font-size: 300%;
+        font-weight: bolder;
+        text-align: right;
+    }
+    .h2bal {
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+        margin-top: 15.5rem;
+        margin-left: 2rem;
+        margin-bottom: 3%;
+        font-size: 300%;
+        font-weight: bolder;
+        text-align: left;
+    }
+    .rolunktextjobb {
+        display: flex;
+        text-align: justify;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: white;
+        font-size: 175%;
+        margin-right: 1rem;
+        margin-bottom: 0;
+    }
+    .rolunktextbal {
+        text-align: justify;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: white;
+        font-size: 175%;
+        margin-left: 1rem;
+        margin-bottom: 0;
+    }
+    .rendezvenyekrow {
+        margin-bottom: 10px;
+    }
+    .rolunktextKocsma {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: center;
+        margin-top: 10px;
+    }
+    .rolunkTextPapa {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        margin-top: 10px;
+    }
+    .itallaplist {
+        margin-left: 1rem;
+        margin-bottom: 1rem;
+    }
+    .itallaplist tr th {
+        color: white;
+        font-weight: 500;
+        font-size: 175%;
+        padding-left: 5rem;
+       
+        padding-top: 1rem;
+    }
+    .itallapDiv{
+        display: flex;
+        justify-content: center;
+    }
+    .footerimg {
+        width: auto;
+        height: 7rem;
+        background-color: white;
+        border: 2px solid white;
+        border-radius: 100%;
+    }
+    .footerlogofelirat {
+        color: white !important;
+    }
+    .footertext {
+        display: flex;
+        justify-content: space-between;
+        color: white;
+    }
+    a {
+        color: white;
+    }
+    a:hover {
+        color: white;
+    }
+    /*Kapcsolatfelvétel*/
+    .conImg {
+        width: auto;
+        height: 5rem;
+        margin-right: 30px;
+        filter: invert(93%) sepia(100%) saturate(0%) hue-rotate(248deg) brightness(106%) contrast(106%);
+    }
+    .conText {
+        font-size: 3rem;
+        color: white !important;
+    }
+    .Con {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 10%;
+    }
+    .conTitle {
+        margin-bottom: 6% !important;
+    }
+    .map {
+        display: flex;
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+        margin-top: 6.2rem;
+        margin-bottom: 5%;
+        font-size: 400%;
+        font-weight: bold;
+        text-align: center;
+        justify-content: center;
+    }
+    .mapFrame {
+        border-radius: 1rem;
+        border: none;
+        width: 100%;
+        height: 100%;
+        margin-right: 13rem;
+    }
+    .kapcsolatfelvetel {
+        margin-bottom: 10%;
+    }
+}
+
+
+/* @media only screen and (min-width: 992px) { 
+    } */
+
+
+/* Extra small devices (phones, 600px and down)
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+
+/* @media only screen and (min-width: 600px) {...} */
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+
+/* @media only screen and (min-width: 768px) {...} */
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+
+
+/* @media only screen and (min-width: 992px) {...} */
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+
+
+/* @media only screen and (min-width: 1200px) {...}  */

@@ -1,0 +1,57 @@
+    @media only screen and (max-width: 380px) {
+        .logotext {
+            font-size: 125%;
+            margin-right: 0;
+        }
+        .h1jobb {
+            font-size: 200%;
+            margin-right: 0;
+            text-align: center;
+        }
+        .h1bal-m {
+            font-size: 200%;
+            margin-right: 0;
+            text-align: center;
+        }
+        .h1bal {
+            font-size: 200%;
+            margin-right: 0;
+            text-align: center;
+        }
+        .h1center{
+            font-size: 200%;
+        }
+        .h2jobb {
+            font-size: 150%;
+            margin-bottom: 1rem;
+            margin-right: 0;
+        }
+        .h2bal {
+            font-size: 150%;
+            margin-bottom: 1rem;
+            margin-left: 0;
+        }
+        .rendezvenyektext {
+            font-size: 100%;
+        }
+        .kapcsbtn {
+            width: 15rem !important;
+            font-size: 100%;
+        }
+        .rolunktextjobb {
+            font-size: 100%;
+            padding: 0;
+        }
+        .rolunktextbal {
+            font-size: 100%;
+            padding: 0;
+        }
+        .card-body {
+            padding: 0%;
+        }
+        .itallaplist tr th{
+            font-size: 100%;
+            padding-right: 0.5rem;
+            padding-left: 0.5rem;
+        }
+    }
