@@ -49,7 +49,7 @@
     }
     
     footer {
-        background-image: url("../img/navbar/hatter2.jpg") !important;
+        background-image: url("../img/navbar/nav_bg.jpg") !important;
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -72,6 +72,7 @@
         margin-right: auto;
         border-radius: 1rem;
     }
+    
     
     #myBtn {
         display: flex;

@@ -8,7 +8,7 @@
     .h1bal-m {
         font-size: 250%;
     }
-    .h1center{
+    .h1center {
         font-size: 250%;
     }
     .h2jobb {
@@ -26,10 +26,32 @@
     .rolunktextbal {
         font-size: 125%;
     }
-    .itallaplist tr th{
+    .itallaplist tr th {
         font-size: 125%;
         padding-right: 1rem;
         padding-left: 1rem;
     }
-    
+    .conText {
+        margin-left: 1rem;
+        font-size: 1.6rem;
+    }
+    .conImg {
+        width: auto;
+        height: 3.8rem;
+    }
+    .footerTail{
+        font-size: 125%;
+        margin-top: 3rem;
+    }
+    .footerContent {
+        font-size: 100%;
+    }
+    .footerlogofelirat {
+        color: white !important;
+        font-size: 125%;
+    }
+    .footerimgSm{
+        width: auto;
+        height: 5rem;
+    }
 }

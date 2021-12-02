@@ -18,7 +18,7 @@
             margin-right: 0;
             text-align: center;
         }
-        .h1center{
+        .h1center {
             font-size: 200%;
         }
         .h2jobb {
@@ -49,9 +49,28 @@
         .card-body {
             padding: 0%;
         }
-        .itallaplist tr th{
+        .itallaplist tr th {
             font-size: 100%;
             padding-right: 0.5rem;
             padding-left: 0.5rem;
+        }
+        .conText {
+            font-size: 1rem;
+        }
+        .conImg {
+            width: auto;
+            height: 3.2rem;
+        }
+        .mapFrame {
+            width: 100%;
+            height: 380px;
+        }
+        .footerOnlySm{
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+        }
+        .footerimgSm{
+            width: auto;
+            height: 4rem;
         }
     }

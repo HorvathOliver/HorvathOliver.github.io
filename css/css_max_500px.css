@@ -1,7 +1,25 @@
 @media only screen and (max-width: 500px) {
-    .itallaplist tr th{
+    .itallaplist tr th {
         font-size: 125%;
         padding-right: 0.5rem;
         padding-left: 0.5rem;
+    }
+    .conText {
+        font-size: 1.2rem;
+    }
+    .conImg {
+        width: auto;
+        height: 3.4rem;
+    }
+    .mapFrame {
+        width: 100%;
+        height: 500px;
+    }
+    .footerImgDivSm{
+        padding: 0;
+    }
+    .footerimgSm{
+        width: auto;
+        height: 4.5rem;
     }
 }

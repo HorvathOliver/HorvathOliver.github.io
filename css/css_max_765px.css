@@ -1,0 +1,14 @@
+@media only screen and (max-width: 765px) {
+    .footerOnlySm{
+        padding-bottom: 0 !important;
+    }
+    .footerimgSm {
+        width: auto;
+        height: 7rem;
+        background-color: white;
+        border: 2px solid white;
+        border-radius: 100%;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+    }
+}

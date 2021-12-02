@@ -1,0 +1,106 @@
+@media only screen and (max-width: 991px) {
+    .nav-link {
+        font-size: 20px;
+    }
+    .h1jobb {
+        margin-right: 2.6rem;
+    }
+    .h1bal {
+        margin-left: 8rem !important;
+        margin-bottom: 0;
+        margin-top: 2rem;
+        font-size: 300%;
+    }
+    .h1bal-m {
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+        margin-top: 6.2rem;
+        margin-bottom: 5%;
+        font-size: 350%;
+        font-weight: bolder;
+        text-align: left;
+    }
+    .h1center {
+        margin-top: 0;
+    }
+    .h2jobb {
+        margin-top: 1rem !important;
+        margin-right: 1.5rem;
+        margin-bottom: 0.5rem;
+        font-size: 250%;
+    }
+    .h2bal {
+        margin-top: 1rem !important;
+        margin-left: 1.5rem;
+        margin-bottom: 0.5rem;
+        font-size: 250%;
+    }
+    .card-body {
+        display: flex;
+        justify-content: center;
+    }
+    .rolunktextjobb {
+        margin-right: 0;
+    }
+    .rolunktextbal {
+        margin-left: 0;
+    }
+    .itallaplist {
+        margin-bottom: 1rem;
+    }
+    .itallaplist tr th {
+        color: white;
+        font-weight: 500;
+        font-size: 150%;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem !important;
+        padding-top: 1rem;
+    }
+    .itallapDiv {
+        display: flex;
+        justify-content: center;
+        padding: 0 0;
+    }
+    .itallapimg2 {
+        border-radius: 1rem;
+        margin-left: 0;
+    }
+    
+    .conText {
+        font-size: 2rem;
+    }
+    .conImg {
+        width: auto;
+        height: 4.2rem;
+    }
+       /*Footer*/
+       .footerimg {
+        width: auto;
+        height: 5rem;
+        background-color: white;
+        border: 2px solid white;
+        border-radius: 100%;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+    }
+    .footerlogofelirat {
+        color: white !important;
+        font-size: 110%;
+    }
+    .footertext {
+        padding: 0;
+        justify-content: space-around !important;
+        color: white;
+    }
+    .footerTail {
+        font-size: 110%;
+        margin-bottom: 2rem;
+    }
+    .footerContent {
+        font-size: 85%;
+    }
+    .footerColumn{
+        padding: 0;
+    }
+    
+}

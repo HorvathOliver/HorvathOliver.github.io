@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1765px) {
+    .itallaplist tr th{
+        padding-right: 0;
+    }
+}
