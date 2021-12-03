@@ -51,9 +51,9 @@
     .itallaplist tr th {
         color: white;
         font-weight: 500;
-        font-size: 150%;
-        padding-left: 1.5rem;
-        padding-right: 1.5rem !important;
+        font-size: 170%;
+        padding-left: 2rem;
+        padding-right: 2rem;
         padding-top: 1rem;
     }
     .itallapDiv {
@@ -65,7 +65,6 @@
         border-radius: 1rem;
         margin-left: 0;
     }
-    
     .conText {
         font-size: 2rem;
     }
@@ -73,8 +72,8 @@
         width: auto;
         height: 4.2rem;
     }
-       /*Footer*/
-       .footerimg {
+    /*Footer*/
+    .footerimg {
         width: auto;
         height: 5rem;
         background-color: white;
@@ -99,8 +98,7 @@
     .footerContent {
         font-size: 85%;
     }
-    .footerColumn{
+    .footerColumn {
         padding: 0;
     }
-    
 }

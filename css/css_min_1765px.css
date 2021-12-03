@@ -53,6 +53,7 @@
     .rendezvenyekimgdiv {
         display: flex !important;
         justify-content: center;
+        align-items: center;
         margin-top: 6.25rem;
         margin-left: -0.625rem;
         max-height: 45rem;

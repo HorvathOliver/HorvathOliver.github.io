@@ -50,7 +50,7 @@
             padding: 0%;
         }
         .itallaplist tr th {
-            font-size: 100%;
+            font-size: 79%;
             padding-right: 0.5rem;
             padding-left: 0.5rem;
         }
@@ -65,11 +65,11 @@
             width: 100%;
             height: 380px;
         }
-        .footerOnlySm{
+        .footerOnlySm {
             padding-left: 0 !important;
             padding-right: 0 !important;
         }
-        .footerimgSm{
+        .footerimgSm {
             width: auto;
             height: 4rem;
         }

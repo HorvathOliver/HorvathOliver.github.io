@@ -54,6 +54,18 @@
         background-size: cover;
     }
     
+    .footerlogofelirat {
+        font-family: 'MedievalSharp', cursive !important;
+    }
+    
+    .footerTail {
+        font-weight: lighter;
+    }
+    
+    .footerContent {
+        font-weight: lighter;
+    }
+    
     .kapcsbtn {
         margin-top: 9% !important;
         width: 20rem !important;
@@ -72,7 +84,6 @@
         margin-right: auto;
         border-radius: 1rem;
     }
-    
     
     #myBtn {
         display: flex;
@@ -103,14 +114,13 @@
     }
     
      ::-webkit-scrollbar {
-        background: none;
-        /* width: 5px;
-    height: 5px; */
+        width: 5px;
+        height: 5px;
     }
     
      ::-webkit-scrollbar-track {
-        background: none !important;
-        /* border-radius: 10px; */
+        border-radius: 10px;
+        background-image: url(/img/body/bg.jpg);
     }
     
      ::-webkit-scrollbar-thumb {

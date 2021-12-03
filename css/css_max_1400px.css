@@ -1,0 +1,6 @@
+@media only screen and (max-width: 1400px) {
+    .itallaplist tr th {
+        font-size: 135%;
+        padding-left: 3.3rem;
+    }
+}

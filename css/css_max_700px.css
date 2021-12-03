@@ -27,7 +27,7 @@
         font-size: 125%;
     }
     .itallaplist tr th {
-        font-size: 125%;
+        font-size: 120%;
         padding-right: 1rem;
         padding-left: 1rem;
     }
@@ -39,7 +39,7 @@
         width: auto;
         height: 3.8rem;
     }
-    .footerTail{
+    .footerTail {
         font-size: 125%;
         margin-top: 3rem;
     }
@@ -50,7 +50,7 @@
         color: white !important;
         font-size: 125%;
     }
-    .footerimgSm{
+    .footerimgSm {
         width: auto;
         height: 5rem;
     }

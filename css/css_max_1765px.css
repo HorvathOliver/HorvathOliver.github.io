@@ -179,6 +179,13 @@
     .rolunktextKocsma {
         margin-top: 10px;
     }
+    .rolunkTextPapa {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        margin-top: 10px;
+    }
     .rolunkdiv {
         display: flex;
         align-items: center;
@@ -197,16 +204,15 @@
         justify-content: flex-start;
         flex-direction: column;
     }
-    .itallaplist {
+    /* .itallaplist {
         margin-left: 1rem;
         margin-bottom: 1rem;
-    }
+    } */
     .itallaplist tr th {
         color: white;
         font-weight: 500;
-        font-size: 120%;
-        padding-left: 1.5rem;
-        padding-right: 1.5rem !important;
+        font-size: 150%;
+        padding-left: 4rem;
         padding-top: 1rem;
     }
     .itallapDiv {
@@ -279,7 +285,6 @@
     .mapCard ul {
         padding: 0 0;
     }
-
     /*Footer*/
     .footerimg {
         width: auto;

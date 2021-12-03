@@ -1,5 +1,5 @@
 @media only screen and (max-width: 765px) {
-    .footerOnlySm{
+    .footerOnlySm {
         padding-bottom: 0 !important;
     }
     .footerimgSm {
@@ -10,5 +10,10 @@
         border-radius: 100%;
         margin-bottom: 2rem;
         margin-top: 2rem;
+    }
+    .itallaplist tr th {
+        font-size: 165%;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
     }
 }

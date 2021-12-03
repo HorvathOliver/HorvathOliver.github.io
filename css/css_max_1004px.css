@@ -1,5 +1,6 @@
 @media only screen and (max-width: 1765px) {
-    .itallaplist tr th{
-        padding-right: 0;
+    .itallaplist tr th {
+        font-size: 110%;
+        padding-left: 2rem;
     }
 }
